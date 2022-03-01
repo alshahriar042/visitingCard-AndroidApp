@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="name">Al Shahriar</string>
+    <string name="id">CSE202201090</string>
+    <string name="program">PMSCS</string>
+    <string name="phone">01812851004</string>
+    <string name="email">shariarakash@gmail.com</string>
+    <string name="address">Dhaka,Bangladesh</string>
+</resources>

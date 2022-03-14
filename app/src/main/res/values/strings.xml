@@ -6,4 +6,6 @@
     <string name="phone">01812851004</string>
     <string name="email">shariarakash@gmail.com</string>
     <string name="address">Dhaka,Bangladesh</string>
+    <string name="btnCall">01812851004</string>
+
 </resources>
